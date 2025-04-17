@@ -1,10 +1,7 @@
-<h1 align="center" id="title">operate.lol</h1>
+<h1 align="center" id="title">solos status site</h1>
 
 <p id="description">see if a site is down or not</p>
 
-<h2>🚀 Demo</h2>
-
-[https://www.operate.lol](https://www.operate.lol)
 
   
   
@@ -26,4 +23,4 @@ This project is licensed under the MIT License
 
 <h2>📃 Credits</h2>
 
-this site was ENTIRELY made by [szvy](https://github.com/szvy), inspired by sites like down detector
+this site was ENTIRELY made by roman, inspired by sites like down detector
